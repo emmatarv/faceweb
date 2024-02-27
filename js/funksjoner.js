@@ -18,3 +18,12 @@ function redd()
     document.getElementById('bilde').src="./img/redd.jpg";    
     }
 
+function sprø()
+    {
+    document.getElementById('bilde').src="./img/sprø.jpg";    
+    }
+
+function sint()
+    {
+    document.getElementById('bilde').src="./img/sint.jpg";    
+    }
