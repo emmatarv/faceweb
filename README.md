@@ -1,2 +1,2 @@
 # hallo hei
-Emma tarve er en larve
+farouq ser jut som en alkoholiker
