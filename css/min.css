@@ -22,7 +22,7 @@ button
 
 .nav {
         background-color: #333;
-        overflow: hidden;
+        overflow:auto;
        
     }
       
