@@ -20,7 +20,7 @@ function redd()
 
 function sprø()
     {
-    document.getElementById('bilde').src="./img/sprø.jpg";    
+    document.getElementById('bilde').src="./img/spro.jpg";    
     }
 
 function sint()
