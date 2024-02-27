@@ -18,7 +18,7 @@ function redd()
     document.getElementById('bilde').src="./img/redd.jpg";    
     }
 
-function sprø()
+function spro()
     {
     document.getElementById('bilde').src="./img/spro.jpg";    
     }
