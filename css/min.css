@@ -30,9 +30,9 @@ button
         float: left;
         color: #f2f2f2;
         text-align: center;
-        padding: 14px 16px;
+        padding: 10px 12px;
         text-decoration: none;
-        font-size: 17px;
+        font-size: 21px;
     }
       
 .topnav a:hover {
@@ -40,7 +40,3 @@ button
         color: black;
     }
       
-.topnav a.active {
-        background-color: #ffa8e5;
-        color: white;
-    }
