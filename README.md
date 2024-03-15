@@ -2,4 +2,4 @@
 
  farouq er rar
 
-farouq ser jut som en alkoholiker
+Emma er en larve
